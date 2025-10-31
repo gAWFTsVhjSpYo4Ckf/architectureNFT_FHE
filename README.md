@@ -1,4 +1,4 @@
-```markdown
+
 # Architecture NFT: FHE-Encrypted Blueprints for the Future 🏗️🔒
 
 Architecture NFT empowers architects to mint FHE-encrypted architectural blueprints into NFTs, providing a revolutionary solution for protecting intellectual property. Utilizing **Zama's Fully Homomorphic Encryption technology**, this project ensures that while clients can view and interact with the designs they purchase, they cannot replicate them. By ingeniously combining blockchain technology with privacy measures, we pave the way for a new era in the architectural design industry.
